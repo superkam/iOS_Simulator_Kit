@@ -3,6 +3,8 @@ Learn about Alfred2: http://www.alfredapp.com
 
 # This workflow is using a Helper script from Qlassiqa
 https://github.com/qlassiqa
+# And a script from dvessel for selecting menu item
+https://gist.github.com/dvessel/1101060
 
 # How to use?
 1. Make sure you have the Alfred2 powerpack.
